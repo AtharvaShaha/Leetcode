@@ -12,6 +12,7 @@ leetcode submissions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaShaha/Leetcode/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AtharvaShaha/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,6 +21,7 @@ leetcode submissions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AtharvaShaha/Leetcode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/AtharvaShaha/Leetcode/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -28,4 +30,8 @@ leetcode submissions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AtharvaShaha/Leetcode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AtharvaShaha/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

@@ -11,6 +11,7 @@ leetcode submissions
 | [0075-sort-colors](https://github.com/AtharvaShaha/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaShaha/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ leetcode submissions
 | [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AtharvaShaha/Leetcode/tree/master/0242-valid-anagram) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaShaha/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +60,8 @@ leetcode submissions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AtharvaShaha/Leetcode/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaShaha/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->

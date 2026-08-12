@@ -8,11 +8,13 @@ leetcode submissions
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaShaha/Leetcode/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AtharvaShaha/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaShaha/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AtharvaShaha/Leetcode/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -23,6 +25,7 @@ leetcode submissions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AtharvaShaha/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AtharvaShaha/Leetcode/tree/master/0242-valid-anagram) |
 ## Quicksort
@@ -37,4 +40,16 @@ leetcode submissions
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AtharvaShaha/Leetcode/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

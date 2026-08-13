@@ -12,6 +12,7 @@ leetcode submissions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaShaha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AtharvaShaha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaShaha/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ leetcode submissions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AtharvaShaha/Leetcode/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AtharvaShaha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -66,4 +68,8 @@ leetcode submissions
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaShaha/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/AtharvaShaha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

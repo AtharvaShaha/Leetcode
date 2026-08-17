@@ -10,6 +10,7 @@ leetcode submissions
 | [0053-maximum-subarray](https://github.com/AtharvaShaha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AtharvaShaha/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AtharvaShaha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/AtharvaShaha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AtharvaShaha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -18,6 +19,7 @@ leetcode submissions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AtharvaShaha/Leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/AtharvaShaha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AtharvaShaha/Leetcode/tree/master/0242-valid-anagram) |
@@ -72,4 +74,8 @@ leetcode submissions
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AtharvaShaha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AtharvaShaha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

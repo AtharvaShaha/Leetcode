@@ -16,6 +16,7 @@ leetcode submissions
 | [0128-longest-consecutive-sequence](https://github.com/AtharvaShaha/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/AtharvaShaha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AtharvaShaha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaShaha/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
@@ -27,6 +28,7 @@ leetcode submissions
 | [0169-majority-element](https://github.com/AtharvaShaha/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AtharvaShaha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AtharvaShaha/Leetcode/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/AtharvaShaha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AtharvaShaha/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
@@ -93,4 +95,8 @@ leetcode submissions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/AtharvaShaha/Leetcode/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AtharvaShaha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
